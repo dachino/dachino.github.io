@@ -1,3 +1,7 @@
+header {
+  background-color: #bf00ff;
+}
+
 header h1 {
   font-family: 'Lobster', cursive;
   text-align: center;
@@ -53,10 +57,14 @@ section {
 }
 
 section img {
-  height: 360px;
-  width: 640px:
+  height: 540px;
+  width: 960px:
   float: left;
   margin-left: 10%;
+}
+
+section h3 {
+  text-align: center;
 }
 
 #logo {
